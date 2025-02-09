@@ -55,7 +55,7 @@ Características del proyecto
 
 Nota3: Si notas en el package.json ejecuté varias librerías que no logré usar ya que tuve la 
 intención de utilizar todos los métodos con logueado (Usuario / Contraseña) y protección de rutas 
-a través de middlewares.
+a través de middlewares y usando token.
 
 Contenedor desplegado en DockerHub
 Ruta: marvindlpg/docker_node_app
